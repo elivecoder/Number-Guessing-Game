@@ -34,7 +34,9 @@ Random number generation with random.randint()
 Handling user input with input()
 Using while loops and if-elif-else conditions
 Writing beginner-friendly terminal applications
+Output of this code
 
+![{8FAFF7B5-A832-4436-A5B8-434E8772FE98}](https://github.com/user-attachments/assets/42f2256f-a6da-46e4-828e-95174ff1f7e8)
 
 🤝 Contributions
 Pull requests are welcome! For major changes, please open an issue first.
